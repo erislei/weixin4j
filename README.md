@@ -1,2 +1,0 @@
-# weixin4j
-asdfasd
