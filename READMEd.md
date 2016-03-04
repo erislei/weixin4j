@@ -1,2 +1,2 @@
 # weixin4j
-asdfasd
+dev
